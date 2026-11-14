@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE = 'gadraii/devops-backend'
+        IMAGE = 'gadraaii/devops-backend'
     }
 
     triggers {
