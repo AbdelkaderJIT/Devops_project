@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE = 'YOUR_DOCKERHUB_USERNAME/devops-backend'
+        IMAGE = 'gadraii/devops-backend'
     }
 
     triggers {
